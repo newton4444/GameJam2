@@ -1,0 +1,7 @@
+679959e7917290c4d1380dafd36febcc
+::res://::1686290980
+default_env.tres::Environment::1686072000::0::1::::<><>::
+icon.png::StreamTexture::1686050339::1686050342::1::::<><>::
+Main.tscn::PackedScene::1686072000::0::1::::<><>::res://Player.gd<>res://TilesetOf5.png
+Player.gd::GDScript::1686053694::0::1::::<>KinematicBody2D<>::
+TilesetOf5.png::StreamTexture::1679233430::1686051641::1::::<><>::
